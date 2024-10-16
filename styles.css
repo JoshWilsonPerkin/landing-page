@@ -1,0 +1,44 @@
+.left {
+    display: flex;
+    justify-content: left;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+.doc {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    border: 1rem solid black;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+}
